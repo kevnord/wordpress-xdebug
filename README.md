@@ -10,3 +10,7 @@ Adds xdebug v4.6.1 to the official wordpress images and configures/enables it vi
 
 - Where to file issues:
 [https://github.com/kevnord/wordpress-xdebug/issues](https://github.com/kevnord/wordpress-xdebug/issues)
+
+## Improvements
+
+- If you see any way to add/improve the images (or readme!), feel free/encouraged to submit a pull request with suggested changes. My goal is to provide images that are easy to use an keep things simple.
